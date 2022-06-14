@@ -1,0 +1,119 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Post Slider and Carousel\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-04 12:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.2; wp-5.4"
+
+#: includes/psac-functions.php:100 includes/psac-functions.php:113
+msgid "Design 1"
+msgstr ""
+
+#: includes/psac-functions.php:101 includes/psac-functions.php:114
+msgid "Design 2"
+msgstr ""
+
+#. Name of the plugin
+#: includes/admin/class-psac-admin.php:31
+msgid "Post Slider and Carousel"
+msgstr ""
+
+#: includes/admin/getting-started.php:30
+msgid "Getting Started - Post Slider and Carousel"
+msgstr ""
+
+#: includes/admin/getting-started.php:38
+msgid "Getting Started"
+msgstr ""
+
+#: includes/admin/getting-started.php:42
+msgid "Step-1. Go to \"Post -- Add New\"."
+msgstr ""
+
+#: includes/admin/getting-started.php:43
+msgid ""
+"Step-2. Add post title, description and featured image and relevant fields."
+msgstr ""
+
+#: includes/admin/getting-started.php:44
+msgid "Step-3. Select post category and tag (Optional)"
+msgstr ""
+
+#: includes/admin/getting-started.php:51
+msgid "Shortcode Page"
+msgstr ""
+
+#: includes/admin/getting-started.php:55
+msgid ""
+"Step-1. Create a page like Blog OR any page where you want to display the "
+"post slider or carousel"
+msgstr ""
+
+#: includes/admin/getting-started.php:56
+msgid "Step-2. Put below shortcode as per your need."
+msgstr ""
+
+#: includes/admin/getting-started.php:63
+msgid "All Shortcodes"
+msgstr ""
+
+#: includes/admin/getting-started.php:67
+msgid "Post Slider Shortcode"
+msgstr ""
+
+#: includes/admin/getting-started.php:68
+msgid "Post Carousel Shortcode"
+msgstr ""
+
+#: includes/admin/getting-started.php:70
+msgid "Check Demo"
+msgstr ""
+
+#: includes/admin/getting-started.php:71
+msgid "You can find all shortcode parameters on"
+msgstr ""
+
+#: includes/admin/getting-started.php:71
+msgid "WordPress Page"
+msgstr ""
+
+#: includes/shortcodes/psac-recent-post-carousel.php:138
+#: includes/shortcodes/psac-recent-post-slider.php:135
+msgid "Reply"
+msgstr ""
+
+#: includes/shortcodes/psac-recent-post-carousel.php:138
+#: includes/shortcodes/psac-recent-post-slider.php:135
+msgid "Replies"
+msgstr ""
+
+#: templates/carousel/design-1.php:50 templates/carousel/design-2.php:54
+#: templates/slider/design-1.php:47 templates/slider/design-2.php:47
+msgid "Read More"
+msgstr ""
+
+#. Description of the plugin
+msgid "Display Posts Slider or Post Carousel on your WordPress website."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://demo.infornweb.com/post-slider-and-carousel/"
+msgstr ""
+
+#. Author of the plugin
+msgid "InfornWeb"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://premium.infornweb.com"
+msgstr ""
